@@ -1,6 +1,5 @@
-// 此文件为coderunnner插件的配置文件，直接创建在.vscode文件夹下
 {
-  "files.associations": {
+  "files.associations": {  // 此文件为coderunnner插件的配置文件，直接创建在.vscode文件夹下
     "vector": "cpp",
     "iostream": "cpp",
     "array": "cpp",
